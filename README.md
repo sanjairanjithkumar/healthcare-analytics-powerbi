@@ -8,13 +8,13 @@ The dashboard provides an interactive view of key healthcare KPIs and helps iden
 
 ## 📸 Dashboard Preview
 
-![Healthcare Executive Overview](overview-dashboard.png)
+![Healthcare Executive Overview](Healthcare-dashboard-page1)
 
-![Patient & Appointment Dashboard](patient-appointment-dashboard.png)
+![Patient & Appointment Dashboard](Healthcare-dashboard-page2)
 
-![Insurance & Pharmacy Dashboard](insurance-pharmacy-dashboard.png)
+![Insurance & Pharmacy Dashboard](Healthcare-dashboard-page3)
 
-![Workforce & Attendance Dashboard](workforce-attendance-dashboard.png)
+![Workforce & Attendance Dashboard](Healthcare-dashboard-page4)
 ---
 
 ## 📌 Project Overview
