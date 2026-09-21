@@ -15,6 +15,7 @@ The dashboard provides an interactive view of key healthcare KPIs and helps iden
 ![Insurance & Pharmacy Dashboard](Healthcare-dashboard-page3)
 
 ![Workforce & Attendance Dashboard](Healthcare-dashboard-page4)
+
 ---
 
 ## 📌 Project Overview
