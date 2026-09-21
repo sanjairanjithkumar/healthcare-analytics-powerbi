@@ -9,13 +9,13 @@ The dashboard provides an interactive view of key healthcare KPIs and helps iden
 ## 📸 Dashboard Preview
 
 
-![Retail Sales Dashboard](Healthcare-dashboard-page1)
+![Retail Sales Dashboard](Healthcare-dashboard-page1.png)
 
-![Patient & Appointment Dashboard](Healthcare-dashboard-page2)
+![Patient & Appointment Dashboard](Healthcare-dashboard-page2.png)
 
-![Insurance & Pharmacy Dashboard](Healthcare-dashboard-page3)
+![Insurance & Pharmacy Dashboard](Healthcare-dashboard-page3.png)
 
-![Workforce & Attendance Dashboard](Healthcare-dashboard-page4)
+![Workforce & Attendance Dashboard](Healthcare-dashboard-page4.png)
 
 
 ---
