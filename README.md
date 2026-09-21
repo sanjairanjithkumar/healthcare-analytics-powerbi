@@ -8,6 +8,7 @@ The dashboard provides an interactive view of key healthcare KPIs and helps iden
 
 ## 📸 Dashboard Preview
 
+
 ![Retail Sales Dashboard](Healthcare-dashboard-page1)
 
 ![Patient & Appointment Dashboard](Healthcare-dashboard-page2)
@@ -15,6 +16,7 @@ The dashboard provides an interactive view of key healthcare KPIs and helps iden
 ![Insurance & Pharmacy Dashboard](Healthcare-dashboard-page3)
 
 ![Workforce & Attendance Dashboard](Healthcare-dashboard-page4)
+
 
 ---
 
