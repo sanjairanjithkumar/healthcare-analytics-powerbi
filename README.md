@@ -8,7 +8,7 @@ The dashboard provides an interactive view of key healthcare KPIs and helps iden
 
 ## 📸 Dashboard Preview
 
-![Healthcare Executive Overview](Healthcare-dashboard-page1)
+![Retail Sales Dashboard](Healthcare-dashboard-page1)
 
 ![Patient & Appointment Dashboard](Healthcare-dashboard-page2)
 
